@@ -1,1 +1,16 @@
 # BookStore
+A basic Bookstore webpage created using NodeJS for a college project.
+
+Basic functionalities includes:
+Registering and logging in 
+presonlized wishlist for every user 
+search for books using keywords.
+
+since the website only needs a database for users and their respsective wishlist 
+we were asked to store the data in JSON files.
+
+I've only worked on the backend and the college provided us with HTML files.. 
+so this is not my design and this is why it's designed for Desktop and not mobile.
+
+The main purpose of this project was to learn server sided get and post requests.
+
