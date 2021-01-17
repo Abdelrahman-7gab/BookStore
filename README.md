@@ -1,7 +1,6 @@
 # BookStore
 A basic Bookstore webpage created using NodeJS for a college project.<br>
-you can visist the website here: https://cryptic-cove-43919.herokuapp.com/ <br>
-<br>
+you can visit the website here: https://cryptic-cove-43919.herokuapp.com/ <br>
 <br>
 Basic functionalities includes: <br>
 Registering and logging in <br>
